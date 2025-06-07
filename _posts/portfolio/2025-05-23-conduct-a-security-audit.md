@@ -2,7 +2,7 @@
 layout: post
 title:  "Botium Toys: Security Audit"
 date:   2025-05-23
-categories: security portfolio
+categories: portfolio security
 ---
 
 ## Scenario

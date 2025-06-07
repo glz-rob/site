@@ -2,7 +2,7 @@
 layout: post
 title:  "Yummy Recipes: Apply OS Hardening Techniques"
 date:   2025-05-28
-categories: security portfolio
+categories: portfolio security
 ---
 
 # Scenario

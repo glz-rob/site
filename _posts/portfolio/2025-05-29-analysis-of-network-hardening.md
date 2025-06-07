@@ -2,7 +2,7 @@
 layout: post
 title:  "Social Media Organization: Analysis of Network Hardening"
 date:   2025-05-29
-categories: security portfolio
+categories: portfolio security
 ---
 
 # Scenario

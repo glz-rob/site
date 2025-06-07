@@ -2,7 +2,7 @@
 layout: post
 title:  "Multimedia Company: Use the NIST Cybersecurity Framework to respond to a security incident"
 date:   2025-05-30
-categories: security portfolio
+categories: portfolio security
 ---
 
 # Scenario
