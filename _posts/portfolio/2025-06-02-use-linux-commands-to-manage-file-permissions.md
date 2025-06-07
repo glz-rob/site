@@ -15,7 +15,7 @@ The research team at the organization needs to update the file permissions for t
 
 Check the contents and permissions of the `projects` directory.
 
-![Check contents and permissions](/assets/img/Task1.1.png)
+![Check contents and permissions](/assets/img/activities/Task1.1.png)
 
 The `ls` command allows us to displays all the files and subdirectories inside a directory. This command, with the option `-l`, displays the files and subdirectories with their given permissions.
 
@@ -31,11 +31,11 @@ The permissions for all owner types are represented with a 10-character string, 
 
 None of the files should allow the other users to write files.
 
-![Change file permissions for project_k.txt](/assets/img/Task2.1.png)
+![Change file permissions for project_k.txt](/assets/img/activities/Task2.1.png)
 
 Used `chmod` to change the permissions for `project_k.txt`, to set the permissions so that the other users can't write on the file.
 
-![Change file permissions for project_m.txt](/assets/img/Task2.2.png)
+![Change file permissions for project_m.txt](/assets/img/activities/Task2.2.png)
 
 Used `chmod` to change the permissions for `project_m.txt`, to set the permissions so that only the owner is able to read or write on the file.
 
@@ -55,7 +55,7 @@ Determine if a hidden file has the correct permissions and change them if needed
 
 The file .project_x.txt is a hidden file that has been archived and should not be written to by anyone. (The user and group should still be able to read this file.)
 
-![Change file permissions for .project_x.txt](/assets/img/Task3.1.png)
+![Change file permissions for .project_x.txt](/assets/img/activities/Task3.1.png)
 
 `ls -a` allows us to display all the files and subdirectories in a directory, including hidden files.
 
@@ -67,7 +67,7 @@ Change the permissions of a directory.
 
 Only the `researcher2` user should be allowed to access the drafts directory and its contents. (This means that only `researcher2` should have execute privileges.)
 
-![Change directory permissions](/assets/img/Task4.1.png)
+![Change directory permissions](/assets/img/activities/Task4.1.png)
 
 `chmod g=-` allows us to set all the group permissions for the `drafts` directory to none.
 
