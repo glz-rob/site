@@ -2,7 +2,7 @@
 layout: post
 title:  "Yummy Recipes: Analyze Network Layer Communication"
 date:   2025-05-26
-categories: security portfolio
+categories: portfolio security
 ---
 
 # Scenario

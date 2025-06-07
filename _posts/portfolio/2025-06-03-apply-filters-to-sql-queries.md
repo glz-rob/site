@@ -2,7 +2,7 @@
 layout: post
 title:  "Apply filters to SQL queries"
 date:   2025-06-03
-categories: security portfolio
+categories: portfolio security
 ---
 
 # Apply filters to SQL queries

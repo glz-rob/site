@@ -2,7 +2,7 @@
 layout: post
 title:  "Use Linux commands to manage file permissions"
 date:   2025-06-02
-categories: security portfolio
+categories: portfolio security
 ---
 
 # File permissions in Linux
